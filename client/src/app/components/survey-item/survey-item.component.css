@@ -1,0 +1,9 @@
+.survey-item {
+  background-color: rgb(101, 204, 132);
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  padding-left: 40px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
